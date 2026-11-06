@@ -1,0 +1,26 @@
+{
+  "Author": "zodiac-auto",
+  "Name": "ZodiacAuto",
+  "InternalName": "ZodiacAuto",
+  "AssemblyVersion": "0.1.0.0",
+  "MinimumDalamudVersion": "15.0.0.0",
+  "Description": "一键/分步自动完成黄道武器（iLvl125）全流程：魂晶、九卷黄道文书、天球书卷、刷光、黄道素材。自动编排 vnavmesh / Lifestream / AutoDuty / Questionable / SomethingNeedDoing / Artisan / RotationSolver。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/zodiac-auto/ff14-zodiac-auto",
+  "Tags": [
+    "zodiac",
+    "relic",
+    "atma",
+    "automation"
+  ],
+  "CategoryTags": [
+    "Utility"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "FF14 古武（黄道武器）全自动助手",
+  "AcceptsFeedback": false
+}
